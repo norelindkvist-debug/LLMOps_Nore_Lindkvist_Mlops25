@@ -1,0 +1,14 @@
+{
+  "educaition_name": "MLOps Engineer",
+  "program_description": "Programmet l�r dig att bygga, drifts�tta och optimera maskininl�rningsmodeller i verkligheten med verktyg som TensorFlow och PyTorch. Du arbetar med CI/CD-pipelines, versionshantering, s�kerhet och edge computing. Utbildningen bedrivs fr�mst p� svenska men anv�nder mycket engelska kursmaterial, f�rbereder dig f�r internationell arbetsmilj�. Efter examen kan du sj�lvst�ndigt drifts�tta, optimera och hantera ML-modeller och bidra till n�sta generations AI-l�sningar.",
+  "career_options": [
+    "MLOps Engineer"
+  ],
+  "courses": [
+    "Aff�rsmannaskap",
+    "AI-f�rst�rkt kunskapsstrategi och hybrida AI-team",
+    "Databashantering",
+    "Edge computing"
+  ],
+  "length": 2.0
+}
